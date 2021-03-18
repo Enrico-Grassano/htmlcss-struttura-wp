@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* debug */
+.heading1 {
+    height: 100px;
+    background-color: #EE82EE;
+}
+
+.heading2 {
+    height: 400px;
+    margin-top: 20px;
+    background-color: #F0E68C;
+}
+
+main {
+    height: 600px;
+    margin-top: 20px;
+    background-color: #1E90FF;
+}
+
+footer {
+    height: 50px;
+    margin-top: 10px;
+    background-color:#8A2BE2 ;
+}
+/* /debug */
+
+
