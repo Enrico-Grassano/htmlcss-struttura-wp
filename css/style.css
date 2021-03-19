@@ -8,7 +8,7 @@
 
 
 .main-container {
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -18,7 +18,7 @@
 }
 
 .heading2 {
-    height: 300px;
+    height: 350px;
     margin-top: 15px;
     background-color: #F0E68C;
 }
@@ -42,23 +42,23 @@ main::after {
 }
 
 .aside-left {
-    width: 170px;
-    height: 350px;
+    width: 19%;
+    height: 400px;
     background-color: #ADD8E6;
     float: left;
 }
 
 .mid-container {
-    width: 398px;
-    height: 350px;
-    margin: 0 10px;
+    width: calc(60% - 20px);
+    height: 400px;
+    margin: 0 20px;
     float: left;
     background-color: #ADD8E6;
 }
 
 .aside-right {
-    width: 170px;
-    height: 350px;
+    width: 19%;
+    height: 400px;
     background-color: #ADD8E6;
     float: left;
 }
